@@ -11,7 +11,7 @@
 // Output: ["h","a","n","n","a","H"]
  
 // Constraints:
-// 1 <= s.length <= 105
+// 1 <= s.length <= 10^5
 // s[i] is a printable ascii character.
 
 public class Solution {
