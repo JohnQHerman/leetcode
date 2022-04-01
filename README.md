@@ -1,4 +1,4 @@
 # leetcode
 Leetcode questions I do in my spare time
 
-Rust, C++, C#, Python, and more to come
+C++, C#, and more to come
