@@ -19,7 +19,6 @@
 // Output: true
 // Explanation: ".*" means "zero or more (*) of any character (.)".
  
-
 // Constraints:
 // 1 <= s.length <= 20
 // 1 <= p.length <= 30
