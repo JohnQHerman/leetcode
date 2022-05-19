@@ -46,7 +46,6 @@ dfs = function(i, j, matrix, dp){
      // set up a dp array
     if(matrix.length === 0) return 0;
     let dp = [];
-    //
     for(let i = 0; i < matrix.length; i++){
         dp[i] = [];
         for(let j = 0; j < matrix[0].length; j++){
